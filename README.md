@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div alight"left" >
+<div alight"center" >
   <a href="https://github.com/BX7L">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BX7L&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BX7L&layout=compact&langs_count=7&theme=radical"/>
